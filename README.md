@@ -2,13 +2,16 @@
 
 Every repo from our videos, in one place. Tap a name to open it.
 
-New videos every day on **YouTube · Instagram · TikTok: [@bytebuddydev](https://www.youtube.com/@bytebuddydev)**
+New videos every day. Follow us:
+**[▶ YouTube](https://www.youtube.com/@bytebuddydev) · [📸 Instagram](https://www.instagram.com/bytebuddydev/) · [🎵 TikTok](https://www.tiktok.com/@bytebuddydev)**
 
 **Jump to:** [Part 1](#part-1-10-github-repos-every-developer-should-know) · [Part 2](#part-2-10-more-github-repos) · [Part 3](#part-3-10-github-repos-with-tools-you-can-use-today)
 
 ---
 
 ## Part 1: 10 GitHub repos every developer should know
+
+▶ **Watch the video:** https://youtube.com/shorts/1kS2Cjerbwk
 
 | # | Repo | What it is |
 |---|------|-----------|
@@ -24,6 +27,8 @@ New videos every day on **YouTube · Instagram · TikTok: [@bytebuddydev](https:
 | 10 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | App ideas to build, from beginner to advanced |
 
 ## Part 2: 10 more GitHub repos
+
+▶ **Watch the video:** https://youtube.com/shorts/PgbY-pC4eE0
 
 | # | Repo | What it is |
 |---|------|-----------|
